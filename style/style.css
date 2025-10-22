@@ -5,6 +5,8 @@
     padding: 0px;
     margin: 0px;
 }
+html {
+  scroll-behavior: smooth;}
  /* besic style for common components */
  .flex{
     display: flex;
